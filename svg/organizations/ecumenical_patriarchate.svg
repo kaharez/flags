@@ -50,6 +50,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect x="0" y="0" width="300" height="200" fill="white" id="background"/>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
