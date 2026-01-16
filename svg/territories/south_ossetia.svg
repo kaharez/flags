@@ -7,12 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400"
-   height="300"
+   width="640"
+   height="480"
    version="1.1"
    id="svg8"
    sodipodi:docname="soo.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)" viewBox="0 0 640 480">
+  <g transform="scale(1.600000, 1.600000)">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -65,4 +66,5 @@
        id="path6"
        style="stroke-width:0.408248" />
   </g>
+</g>
 </svg>

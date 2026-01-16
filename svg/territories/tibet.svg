@@ -12,9 +12,10 @@
    sodipodi:docname="tibetflag.svg"
    id="svg64"
    version="1.1"
-   viewBox="0 0 120 90"
-   height="300"
-   width="400">
+   viewBox="0 0 640 480"
+   height="480"
+   width="640">
+  <g transform="scale(5.333333, 5.333333)">
   <metadata
      id="metadata70">
     <rdf:RDF>
@@ -1129,4 +1130,5 @@
          height="100%" />
     </g>
   </g>
+</g>
 </svg>
