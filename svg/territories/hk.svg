@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="300"
+   version="1.1"
+   id="svg65"
+   sodipodi:docname="hk.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="2041"
+     id="namedview67"
+     showgrid="false"
+     inkscape:zoom="0.89095454"
+     inkscape:cx="482.80362"
+     inkscape:cy="344.90015"
+     inkscape:window-x="1611"
+     inkscape:window-y="288"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg65" />
+  <defs
+     id="defs11">
+    <g
+       id="a">
+      <path
+         d="m 0,0 c -44.567,-6.662 -77.546,-44.938 -77.546,-90 0,-45.062 32.98,-83.338 77.546,-90 -12.658,10.498 -17.88,29.968 -1.805,44.953 17.632,16.436 18.312,51.174 -4.01,69.017 C -23.214,-52.123 -31.852,-17.645 0,0 Z"
+         transform="rotate(13.48)"
+         fill="#ffffff"
+         id="path2" />
+      <g
+         fill="#ee1c25"
+         id="g8">
+        <path
+           transform="matrix(14.931444,1.4324743,1.4324743,-14.931444,-6.7541563,-109.79241)"
+           d="m 0,-1 0.588,1.809 -1.54,-1.118 h 1.904 l -1.54,1.118 z"
+           id="path4" />
+        <path
+           d="m 0.104,-1.429 c -37.93,-12.053 -50.3,-56.701 -39.483,-85.682 l -2.474,-0.852 C -52.48,-61.061 -42.445,-11.99 -0.534,1.115 L 0.104,-1.43 Z"
+           transform="rotate(13.48)"
+           id="path6" />
+      </g>
+    </g>
+  </defs>
+  <g
+     id="g959">
+    <path
+       d="M 0,0 H 400 V 300 H 0 Z"
+       fill="#ee1c25"
+       id="path13"
+       style="font-size:25px;font-family:Arial, 'Nimbus Sans L', 'Bitstream Vera Sans', Lucida, Verdana, FreeSans, sans-serif, 'Times New Roman', FreeSerif, serif;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;stroke-width:0.471405" />
+    <g
+       transform="matrix(0.46829867,0,0,0.46829867,195.62137,152.13398)"
+       id="g27"
+       style="font-size:25px;font-family:Arial, 'Nimbus Sans L', 'Bitstream Vera Sans', Lucida, Verdana, FreeSans, sans-serif, 'Times New Roman', FreeSerif, serif;writing-mode:lr-tb;fill:#ffffff">
+      <use
+         width="900"
+         height="600"
+         xlink:href="#a"
+         id="use15"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         transform="rotate(72)"
+         width="900"
+         height="600"
+         xlink:href="#a"
+         id="use17"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         transform="rotate(-72)"
+         width="900"
+         height="600"
+         xlink:href="#a"
+         id="use19"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         transform="rotate(144)"
+         width="900"
+         height="600"
+         xlink:href="#a"
+         id="use21"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <use
+         transform="rotate(-144)"
+         width="900"
+         height="600"
+         xlink:href="#a"
+         id="use23"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+      <circle
+         r="4"
+         fill="#ff0000"
+         id="circle25"
+         cx="0"
+         cy="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
